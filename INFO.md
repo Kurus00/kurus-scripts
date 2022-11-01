@@ -1,2 +1,6 @@
 # kurus-scripts
-# this Project Bomba (Kurus-Ware)
+# repeat wait() until game.Players.LocalPlayer.Character
+
+kurusscripts = "https://raw.githubusercontent.com/Kurus00/kurus-scripts/main/NewUI.luau"
+
+loadstring(game:HttpGet(kurusscripts))()
